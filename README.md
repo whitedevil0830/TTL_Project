@@ -9,7 +9,7 @@
 ### 1. Download and extract the files to local storage
 Store all the files in one folder
 ### 2. Run the Program:
-  2.1. Run the TTL_App.py file by typing "streamlit run TTL_App.py" in the terminal in VSCode
+  2.1. Run the TTL_App.py file by typing "streamlit run TTL_App.py" in the terminal in VSCode.
   2.2. A website will run in the local host domain, in which we need to provide the input for each column in each text box.
 #### NOTE: The input for each textbox can be taken from all types of values of each feature column provided in "Column_unique_values.txt" and in the same format as in the text file.
   2.3. Click the "Predict accident severity" button to run the code and predict the output.
