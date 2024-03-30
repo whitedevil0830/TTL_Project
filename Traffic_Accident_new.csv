@@ -1,0 +1,475 @@
+Age_band_of_driver,Sex_of_driver,Vehicle_driver_relation,Driving_experience,Lanes_or_Medians,Types_of_Junction,Road_surface_type,Light_conditions,Weather_conditions,Type_of_collision,Vehicle_movement,Pedestrian_movement,Cause_of_accident
+31-50,Male,Employee,5-10yr,Double carriageway (median),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),No junction,Earth roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+Over 51,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,2-5yr,One way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Crossing from driver's nearside,No distancing
+18-30,Male,Owner,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,2-5yr,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,Above 10yr,other,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,5-10yr,other,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,2-5yr,other,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Changing lane to the left
+Over 51,Male,Employee,Unknown,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,2-5yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Unknown,Unknown,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with pedestrians,Going straight,Not a Pedestrian,Driving under the influence of drugs
+Over 51,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+Under 18,Male,Owner,Unknown,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Rollover,Going straight,Not a Pedestrian,Changing lane to the right
+Under 18,Male,Owner,5-10yr,Unknown,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+Under 18,Male,Owner,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Overturning
+18-30,Male,Owner,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Improper parking
+18-30,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+31-50,Male,Employee,1-2yr,Undivided Two way,No junction,Earth roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,5-10yr,Double carriageway (median),No junction,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Owner,Unknown,One way,Unknown,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+18-30,Male,Employee,1-2yr,Undivided Two way,Unknown,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Driving to the left
+18-30,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Entering a junction,Not a Pedestrian,Driving under the influence of drugs
+31-50,Male,Owner,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,5-10yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+31-50,Male,Owner,1-2yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,Other
+31-50,Male,Employee,5-10yr,Two-way (divided with solid lines road marking),Y Shape,Asphalt roads with some distress,Daylight,Normal,Collision with pedestrians,Other,Not a Pedestrian,Moving Backward
+Over 51,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Unknown or other,Turnover
+18-30,Male,Employee,5-10yr,other,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Unknown,Female,Employee,1-2yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Driving carelessly
+Under 18,Male,Owner,1-2yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Unknown,Female,Owner,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Owner,5-10yr,One way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Owner,2-5yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving under the influence of drugs
+31-50,Male,Owner,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Owner,Unknown,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Owner,Below 1yr,One way,Crossing,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,Above 10yr,Unknown,No junction,Asphalt roads,Daylight,Normal,Collision with pedestrians,Moving Backward,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Moving Backward
+31-50,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,No distancing
+Unknown,Female,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Unknown or other,Moving Backward
+Under 18,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Driving carelessly
+31-50,Unknown,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+31-50,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Changing lane to the left
+Over 51,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Daylight,Raining,Collision with pedestrians,Going straight,Not a Pedestrian,Changing lane to the right
+Over 51,Male,Employee,2-5yr,Unknown,Other,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,2-5yr,One way,Other,Asphalt roads,Darkness - lights lit,Normal,Rollover,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Owner,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Moving Backward,Unknown or other,Driving carelessly
+18-30,Male,Owner,Unknown,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,No priority to vehicle
+18-30,Male,Owner,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Owner,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Moving Backward,Not a Pedestrian,Changing lane to the left
+18-30,Male,Owner,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Moving Backward,Unknown or other,Changing lane to the right
+18-30,Male,Employee,2-5yr,One way,No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Unknown,Not a Pedestrian,Changing lane to the left
+Over 51,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Unknown,Going straight,Not a Pedestrian,Driving under the influence of drugs
+18-30,Male,Employee,2-5yr,Unknown,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Unknown or other,Moving Backward
+31-50,Male,Unknown,Unknown,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Owner,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Unknown,Unknown,other,No junction,Earth roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,5-10yr,Double carriageway (median),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Overtaking,Not a Pedestrian,Moving Backward
+Over 51,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Getting off,Not a Pedestrian,No priority to vehicle
+Over 51,Male,Owner,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Over 51,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+Unknown,Male,Employee,5-10yr,One way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Under 18,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Owner,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+18-30,Male,Employee,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Unknown,Male,Employee,1-2yr,Double carriageway (median),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Other
+18-30,Male,Employee,1-2yr,other,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Overtaking,Crossing from offside - masked by  parked or statioNot a Pedestrianry vehicle,Changing lane to the left
+Under 18,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,No distancing
+Over 51,Male,Employee,unknown,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Owner,2-5yr,Double carriageway (median),Y Shape,Asphalt roads,Daylight,Normal,Collision with pedestrians,Turnover,Not a Pedestrian,Moving Backward
+Under 18,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving to the left
+Over 51,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Collision with pedestrians,Unknown,Not a Pedestrian,Other
+31-50,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Rollover,Reversing,Not a Pedestrian,Turnover
+Over 51,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving to the left
+18-30,Male,Unknown,1-2yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,Above 10yr,One way,No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Unknown,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Daylight,Raining,Collision with pedestrians,Overtaking,Not a Pedestrian,Driving carelessly
+18-30,Male,Owner,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Raining,Collision with roadside objects,Reversing,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Raining,Unknown,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Owner,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Other,Not a Pedestrian,No priority to pedestrian
+Over 51,Male,Employee,5-10yr,Double carriageway (median),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Changing lane to the right
+Over 51,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Entering a junction,Unknown or other,Moving Backward
+31-50,Male,Employee,2-5yr,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Entering a junction,Not a Pedestrian,No distancing
+18-30,Male,Employee,5-10yr,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Entering a junction,Not a Pedestrian,Overspeed
+18-30,Male,Employee,Unknown,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Other,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Moving Backward
+18-30,Male,Employee,2-5yr,Double carriageway (median),No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Moving Backward,Not a Pedestrian,Driving at high speed
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Other,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+31-50,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with animals,Overtaking,Not a Pedestrian,No distancing
+31-50,Male,Owner,5-10yr,other,No junction,Earth roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,Moving Backward
+Over 51,Male,Employee,1-2yr,other,No junction,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Unknown,Unknown,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Getting off the vehicle improperly
+31-50,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,No priority to pedestrian
+31-50,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Employee,Above 10yr,One way,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Other,Not a Pedestrian,Driving carelessly
+18-30,Male,Owner,Above 10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Other,Not a Pedestrian,Changing lane to the left
+Over 51,Male,Employee,Above 10yr,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Unknown,Unknown,Unknown,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,No distancing
+18-30,Male,Owner,2-5yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Over 51,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Under 18,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Unknown,Earth roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,5-10yr,other,Unknown,Asphalt roads,Daylight,Raining,Collision with roadside objects,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Owner,5-10yr,One way,Unknown,Asphalt roads,Daylight,Raining,Collision with roadside objects,Getting off,Not a Pedestrian,Changing lane to the right
+31-50,Male,Owner,5-10yr,Undivided Two way,Unknown,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Getting off,Not a Pedestrian,Driving to the left
+Over 51,Male,Employee,5-10yr,One way,Unknown,Asphalt roads,Daylight,Raining,Collision with pedestrians,Getting off,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,5-10yr,Undivided Two way,Unknown,Other,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Over 51,Male,Owner,2-5yr,Two-way (divided with broken lines road marking),Unknown,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,No distancing
+18-30,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Unknown,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Other,Unknown or other,No priority to pedestrian
+31-50,Male,Employee,2-5yr,Undivided Two way,Unknown,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,1-2yr,Undivided Two way,Unknown,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Under 18,Male,Employee,Above 10yr,Undivided Two way,Unknown,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Unknown,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Reversing,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Getting off the vehicle improperly
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Unknown,Earth roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,Overtaking
+31-50,Male,Owner,2-5yr,Two-way (divided with broken lines road marking),Unknown,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Overloading
+Unknown,Male,Employee,5-10yr,Undivided Two way,Unknown,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Stopping,Not a Pedestrian,No distancing
+18-30,Female,Employee,5-10yr,other,Unknown,Asphalt roads,Daylight,Normal,Collision with pedestrians,Other,Not a Pedestrian,Getting off the vehicle improperly
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Unknown,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+18-30,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Getting off,Not a Pedestrian,No priority to vehicle
+Under 18,Male,Employee,Above 10yr,other,No junction,Earth roads,Daylight,Normal,Vehicle with vehicle collision,Overtaking,Not a Pedestrian,Overturning
+18-30,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Waiting to go,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,1-2yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+18-30,Male,Unknown,Unknown,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Moving Backward
+Under 18,Male,Other,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Owner,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Other,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Overtaking
+31-50,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overloading
+31-50,Male,Unknown,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Driving at high speed
+18-30,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Turnover,Not a Pedestrian,Changing lane to the left
+18-30,Female,Employee,5-10yr,other,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Rollover,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Employee,2-5yr,One way,O Shape,Asphalt roads,Daylight,Raining,Collision with pedestrians,Going straight,Not a Pedestrian,Driving under the influence of drugs
+Over 51,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),No junction,Unknown,Daylight,Raining,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Driving carelessly
+31-50,Male,Unknown,Unknown,Undivided Two way,Y Shape,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Other,Not a Pedestrian,No distancing
+31-50,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,1-2yr,other,No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside-parked vehicles,U-Turn,Not a Pedestrian,Moving Backward
+18-30,Male,Owner,1-2yr,other,No junction,Asphalt roads,Daylight,Normal,Collision with animals,Turnover,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,No Licence,Undivided Two way,No junction,Earth roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,No priority to pedestrian
+31-50,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,No distancing
+18-30,Female,Employee,Above 10yr,One way,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with animals,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with animals,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,Below 1yr,One way,Y Shape,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,2-5yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Collision with animals,Moving Backward,Not a Pedestrian,Overtaking
+18-30,Male,Employee,5-10yr,other,Y Shape,Asphalt roads,Daylight,Normal,Other,Getting off,Not a Pedestrian,Overloading
+31-50,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Rollover,Reversing,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Over 51,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,1-2yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,1-2yr,Double carriageway (median),Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Overturning
+18-30,Unknown,Employee,Below 1yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,2-5yr,Double carriageway (median),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Under 18,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving at high speed
+Under 18,Male,Employee,Above 10yr,One way,No junction,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+Under 18,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+Under 18,Male,Employee,5-10yr,One way,No junction,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,2-5yr,other,Other,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,2-5yr,other,No junction,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,Below 1yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Employee,Unknown,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Under 18,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Driving carelessly
+Under 18,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Parked,Not a Pedestrian,Changing lane to the right
+31-50,Male,Unknown,Unknown,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+18-30,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Raining,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Owner,2-5yr,other,No junction,Asphalt roads,Darkness - lights lit,Raining,Collision with roadside objects,Going straight,Not a Pedestrian,Getting off the vehicle improperly
+18-30,Male,Employee,2-5yr,Undivided Two way,O Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Unknown,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Turnover
+18-30,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Unknown,Crossing from driver's nearside,No distancing
+Over 51,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Other
+18-30,Male,Employee,5-10yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,No distancing
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Female,Employee,1-2yr,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Driving carelessly
+Over 51,Female,Employee,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Reversing,Not a Pedestrian,Driving to the left
+31-50,Male,Owner,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Over 51,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Overtaking
+31-50,Male,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+31-50,Male,Employee,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+Over 51,Male,Employee,2-5yr,Double carriageway (median),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Under 18,Male,Other,5-10yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Other,Not a Pedestrian,No priority to pedestrian
+Unknown,Female,Employee,1-2yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Owner,5-10yr,One way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Changing lane to the right
+18-30,Male,Employee,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Unknown,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,5-10yr,One way,Y Shape,Asphalt roads,Daylight,Unknown,Rollover,Moving Backward,Not a Pedestrian,Overturning
+Over 51,Unknown,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Unknown,Collision with roadside objects,Going straight,Not a Pedestrian,Driving under the influence of drugs
+Over 51,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Unknown,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,Below 1yr,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,"Walking along in carriageway, back to traffic",No distancing
+18-30,Male,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Windy,Collision with pedestrians,Going straight,Not a Pedestrian,Changing lane to the left
+Over 51,Male,Unknown,Unknown,Double carriageway (median),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Gravel roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Unknown,Unknown,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Unknown,Crossing from driver's nearside,Driving carelessly
+18-30,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),Crossing,Gravel roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,1-2yr,Double carriageway (median),Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Under 18,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No priority to vehicle
+Under 18,Male,Employee,2-5yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Reversing,Crossing from offside - masked by  parked or statioNot a Pedestrianry vehicle,Changing lane to the right
+Under 18,Male,Employee,1-2yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,5-10yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,No distancing
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Getting off the vehicle improperly
+Over 51,Male,Employee,2-5yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Over 51,Male,Employee,5-10yr,One way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,Above 10yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,No distancing
+Over 51,Male,Employee,Above 10yr,other,Crossing,Asphalt roads,Darkness - lights lit,Normal,Rollover,Going straight,Not a Pedestrian,Changing lane to the right
+Over 51,Male,Owner,2-5yr,other,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+18-30,Female,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Overtaking
+31-50,Male,Owner,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with pedestrians,Stopping,Not a Pedestrian,Driving to the left
+18-30,Male,Employee,Above 10yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,Below 1yr,Double carriageway (median),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,Above 10yr,Undivided Two way,Other,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overturning
+31-50,Male,Employee,2-5yr,Double carriageway (median),Other,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Unknown or other,Changing lane to the right
+31-50,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overspeed
+31-50,Male,Employee,Below 1yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving under the influence of drugs
+Under 18,Male,Employee,5-10yr,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Under 18,Male,Employee,5-10yr,Double carriageway (median),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Overspeed
+Under 18,Male,Employee,2-5yr,One way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving under the influence of drugs
+Under 18,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Under 18,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Unknown,Employee,Below 1yr,Undivided Two way,No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Owner,5-10yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Over 51,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+Unknown,Female,Employee,Above 10yr,Double carriageway (median),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,No priority to vehicle
+Over 51,Male,Owner,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Unknown,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Drunk driving
+18-30,Unknown,Owner,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,Above 10yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving at high speed
+31-50,Male,Employee,Below 1yr,One way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads with some distress,Daylight,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Moving Backward
+Under 18,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with pedestrians,Unknown,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+Over 51,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+Under 18,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Overtaking
+18-30,Male,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Owner,5-10yr,other,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,No distancing
+18-30,Unknown,Employee,Below 1yr,other,Crossing,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+Under 18,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Owner,2-5yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving at high speed
+Over 51,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Gravel roads,Daylight,Normal,Collision with roadside objects,Moving Backward,Not a Pedestrian,No distancing
+31-50,Unknown,Employee,1-2yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Owner,Above 10yr,One way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving to the left
+18-30,Male,Employee,2-5yr,One way,O Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Moving Backward,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),O Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,No distancing
+31-50,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Crossing from driver's nearside,No priority to pedestrian
+18-30,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Raining,Collision with pedestrians,Going straight,Not a Pedestrian,No priority to vehicle
+Under 18,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Raining,Unknown,Going straight,Not a Pedestrian,No priority to pedestrian
+18-30,Male,Owner,Below 1yr,Undivided Two way,O Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with roadside objects,Moving Backward,Not a Pedestrian,Driving carelessly
+18-30,Male,Owner,2-5yr,Undivided Two way,O Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with roadside objects,Moving Backward,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Changing lane to the left
+18-30,Male,Owner,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+Over 51,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overloading
+18-30,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,Below 1yr,One way,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+Over 51,Male,Employee,Above 10yr,Undivided Two way,Crossing,Asphalt roads,Darkness - no lighting,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Driving carelessly
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Driving carelessly
+31-50,Male,Employee,Above 10yr,Undivided Two way,Other,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Crossing from driver's nearside,Moving Backward
+18-30,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Daylight,Normal,Rollover,Moving Backward,Not a Pedestrian,No distancing
+Over 51,Male,Employee,2-5yr,One way,Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Moving Backward
+Over 51,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Unknown,Unknown,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Driving to the left
+18-30,Male,Owner,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Unknown,Unknown,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving under the influence of drugs
+18-30,Male,Owner,5-10yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Moving Backward,Not a Pedestrian,No priority to pedestrian
+31-50,Male,Employee,5-10yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Other,Not a Pedestrian,Changing lane to the right
+Unknown,Female,Owner,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Owner,Unknown,Undivided Two way,Other,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+18-30,Unknown,Owner,Below 1yr,Undivided Two way,Other,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,U-Turn,Not a Pedestrian,Overloading
+Under 18,Male,Owner,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,U-Turn,Not a Pedestrian,No priority to vehicle
+Over 51,Male,Employee,5-10yr,One way,Unknown,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Under 18,Male,Employee,No Licence,Two-way (divided with broken lines road marking),Unknown,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,No priority to pedestrian
+Over 51,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Unknown,Collision with pedestrians,Getting off,Not a Pedestrian,Overloading
+Under 18,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+Under 18,Male,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Female,Employee,5-10yr,Undivided Two way,O Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),O Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Owner,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Owner,5-10yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+31-50,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+Unknown,Female,Employee,Below 1yr,One way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Driving to the left
+18-30,Male,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Driving at high speed
+Over 51,Male,Employee,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Unknown,Going straight,Not a Pedestrian,Unknown
+18-30,Male,Employee,1-2yr,Unknown,No junction,Asphalt roads,Daylight,Normal,Collision with roadside-parked vehicles,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+18-30,Male,Employee,5-10yr,other,Y Shape,Earth roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+31-50,Male,Unknown,Unknown,Unknown,Y Shape,Unknown,Daylight,Normal,Vehicle with vehicle collision,U-Turn,Not a Pedestrian,Overloading
+18-30,Male,Employee,2-5yr,Undivided Two way,Crossing,Unknown,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Other
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,U-Turn,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,Above 10yr,other,Y Shape,Earth roads,Daylight,Normal,Collision with roadside-parked vehicles,Going straight,Crossing from driver's nearside,Changing lane to the right
+18-30,Male,Employee,1-2yr,Double carriageway (median),No junction,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,5-10yr,other,No junction,Asphalt roads,Daylight,Normal,Collision with animals,Waiting to go,Not a Pedestrian,No priority to vehicle
+18-30,Male,Owner,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with animals,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with animals,Moving Backward,Not a Pedestrian,No priority to pedestrian
+Under 18,Male,Employee,2-5yr,One way,Y Shape,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,Getting off the vehicle improperly
+18-30,Male,Unknown,Unknown,other,Crossing,Asphalt roads with some distress,Daylight,Normal,Collision with animals,Turnover,Not a Pedestrian,Improper parking
+18-30,Male,Employee,2-5yr,other,Crossing,Asphalt roads,Daylight,Normal,Rollover,Going straight,Not a Pedestrian,Other
+18-30,Unknown,Employee,5-10yr,Double carriageway (median),Crossing,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,Changing lane to the left
+18-30,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,Changing lane to the right
+Over 51,Unknown,Unknown,Unknown,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+18-30,Male,Employee,1-2yr,other,No junction,Asphalt roads,Daylight,Normal,Fall from vehicles,Going straight,Not a Pedestrian,Overspeed
+18-30,Male,Employee,2-5yr,Two-way (divided with solid lines road marking),Crossing,Asphalt roads,Daylight,Normal,Collision with roadside-parked vehicles,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with roadside-parked vehicles,Moving Backward,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,Below 1yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Rollover,Reversing,Not a Pedestrian,Changing lane to the right
+31-50,Unknown,Employee,2-5yr,other,No junction,Asphalt roads,Daylight,Normal,Collision with animals,Turnover,Not a Pedestrian,No distancing
+Over 51,Male,Employee,Below 1yr,Undivided Two way,O Shape,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,No priority to pedestrian
+18-30,Male,Employee,5-10yr,Undivided Two way,O Shape,Asphalt roads,Daylight,Normal,Fall from vehicles,Going straight,Unknown or other,No distancing
+18-30,Male,Employee,1-2yr,Double carriageway (median),Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside-parked vehicles,Going straight,Not a Pedestrian,No priority to vehicle
+Over 51,Male,Employee,Below 1yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with animals,Going straight,Not a Pedestrian,Other
+Over 51,Male,Unknown,Unknown,other,Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with animals,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,Below 1yr,other,No junction,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,Below 1yr,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Unknown,Unknown,other,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,2-5yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,No distancing
+18-30,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Gravel roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,1-2yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving at high speed
+31-50,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Employee,Below 1yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Rollover,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,2-5yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Owner,1-2yr,Two-way (divided with broken lines road marking),Other,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Getting off the vehicle improperly
+31-50,Male,Employee,5-10yr,Undivided Two way,Other,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+Over 51,Male,Employee,2-5yr,Double carriageway (median),No junction,Asphalt roads,Daylight,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Other
+31-50,Male,Owner,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Unknown,Employee,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Rollover,Going straight,Not a Pedestrian,No priority to pedestrian
+31-50,Male,Employee,5-10yr,Double carriageway (median),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Unknown,Employee,Above 10yr,Two-way (divided with broken lines road marking),Unknown,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Over 51,Male,Unknown,1-2yr,Two-way (divided with broken lines road marking),Unknown,Gravel roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,2-5yr,Unknown,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,1-2yr,Double carriageway (median),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+31-50,Male,Unknown,Unknown,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Other
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving to the left
+Unknown,Female,Employee,5-10yr,One way,No junction,Earth roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving at high speed
+31-50,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Unknown
+31-50,Unknown,Employee,2-5yr,Undivided Two way,O Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Owner,Above 10yr,other,O Shape,Unknown,Daylight,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,No distancing
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Gravel roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+31-50,Male,Other,5-10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Unknown,Darkness - lights lit,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Changing lane to the left
+31-50,Male,Unknown,5-10yr,Double carriageway (median),Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No priority to pedestrian
+31-50,Male,Employee,5-10yr,Undivided Two way,No junction,Earth roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+31-50,Male,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Unknown,Below 1yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,5-10yr,Double carriageway (median),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+Over 51,Unknown,Unknown,Unknown,other,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Earth roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the right
+Under 18,Male,Owner,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Over 51,Male,Owner,2-5yr,Undivided Two way,Unknown,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Unknown,Unknown,Undivided Two way,Unknown,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,No distancing
+Over 51,Unknown,Owner,2-5yr,other,Crossing,Asphalt roads,Darkness - lights lit,Normal,Rollover,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Owner,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,No distancing
+18-30,Male,Owner,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,No distancing
+Over 51,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+Over 51,Male,Employee,5-10yr,Double carriageway (median),Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+18-30,Male,Employee,2-5yr,Double carriageway (median),Y Shape,Other,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Gravel roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Gravel roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Unknown,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Driving carelessly
+Over 51,Male,Employee,Above 10yr,other,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Earth roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+18-30,Male,Employee,Unknown,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,5-10yr,Unknown,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Parked,Not a Pedestrian,No distancing
+Over 51,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Earth roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+31-50,Unknown,Employee,Above 10yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overturning
+Over 51,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights unlit,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Other
+31-50,Unknown,Employee,5-10yr,Double carriageway (median),Y Shape,Asphalt roads,Darkness - lights unlit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+31-50,Male,Employee,5-10yr,Unknown,Y Shape,Asphalt roads,Darkness - lights unlit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,2-5yr,Unknown,Crossing,Asphalt roads,Daylight,Normal,Rollover,Unknown,Not a Pedestrian,No distancing
+31-50,Male,Employee,5-10yr,other,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Moving Backward
+31-50,Unknown,Unknown,5-10yr,Unknown,Crossing,Earth roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+18-30,Male,Employee,Above 10yr,One way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Driving carelessly
+Unknown,Female,Employee,Above 10yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Turnover,Not a Pedestrian,No distancing
+18-30,Unknown,Employee,Below 1yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Owner,5-10yr,Two-way (divided with broken lines road marking),Crossing,Earth roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,No distancing
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Raining,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,Above 10yr,other,No junction,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,Below 1yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,No priority to pedestrian
+Under 18,Unknown,Employee,5-10yr,other,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+Over 51,Male,Employee,5-10yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Turnover
+31-50,Male,Employee,1-2yr,other,No junction,Other,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Driving to the left
+18-30,Male,Employee,Unknown,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving to the left
+18-30,Male,Employee,5-10yr,Double carriageway (median),No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Owner,1-2yr,other,Crossing,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Turnover,Not a Pedestrian,No priority to pedestrian
+Under 18,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Unknown,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Earth roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+31-50,Male,Owner,Below 1yr,other,No junction,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Reversing,Not a Pedestrian,Changing lane to the right
+18-30,Unknown,Employee,2-5yr,Double carriageway (median),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with pedestrians,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,5-10yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with roadside objects,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Unknown,Not a Pedestrian,Overtaking
+18-30,Unknown,Owner,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+18-30,Male,Employee,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+Under 18,Male,Owner,5-10yr,Undivided Two way,Crossing,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Stopping,Not a Pedestrian,Other
+18-30,Male,Employee,2-5yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Overtaking,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,Below 1yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Overtaking
+18-30,Male,Employee,1-2yr,Unknown,No junction,Asphalt roads,Darkness - lights lit,Raining and Windy,Collision with roadside objects,Reversing,Not a Pedestrian,Other
+18-30,Male,Employee,2-5yr,Double carriageway (median),No junction,Earth roads,Darkness - lights lit,Raining and Windy,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving to the left
+Unknown,Female,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Cloudy,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Unknown,Daylight,Cloudy,Vehicle with vehicle collision,Unknown,Not a Pedestrian,No priority to vehicle
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Cloudy,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+Under 18,Male,Unknown,Unknown,Unknown,Y Shape,Asphalt roads,Darkness - lights lit,Raining,With Train,Moving Backward,Not a Pedestrian,Other
+Under 18,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to vehicle
+Under 18,Male,Employee,Above 10yr,Double carriageway (median),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,No priority to pedestrian
+31-50,Male,Owner,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+Over 51,Male,Employee,unknown,Undivided Two way,Crossing,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Unknown,Not a Pedestrian,Changing lane to the right
+31-50,Male,Employee,2-5yr,Unknown,Crossing,Asphalt roads,Darkness - no lighting,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving to the left
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+18-30,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Crossing,Gravel roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Unknown or other,Moving Backward
+Over 51,Male,Owner,5-10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Turnover,Not a Pedestrian,Driving at high speed
+18-30,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Darkness - lights lit,Raining,Collision with pedestrians,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+31-50,Unknown,Employee,2-5yr,Double carriageway (median),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Other
+Over 51,Male,Owner,Above 10yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Reversing,Not a Pedestrian,No priority to vehicle
+Over 51,Male,Employee,1-2yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Getting off,Not a Pedestrian,Changing lane to the right
+18-30,Unknown,Employee,Above 10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Other
+31-50,Male,Unknown,Unknown,Unknown,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Getting off,Not a Pedestrian,No distancing
+Over 51,Male,Owner,5-10yr,Undivided Two way,Crossing,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Driving carelessly
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Crossing,Asphalt roads,Darkness - lights lit,Raining,Collision with roadside objects,Going straight,Not a Pedestrian,No distancing
+18-30,Male,Employee,5-10yr,other,Crossing,Asphalt roads,Darkness - lights lit,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+18-30,Male,Employee,Above 10yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Moving Backward
+31-50,Male,Employee,2-5yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Other,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No priority to pedestrian
+31-50,Male,Employee,Below 1yr,One way,No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the left
+31-50,Male,Employee,Above 10yr,Two-way (divided with broken lines road marking),No junction,Asphalt roads,Daylight,Raining,Vehicle with vehicle collision,Going straight,Not a Pedestrian,No distancing
+31-50,Male,Employee,1-2yr,Undivided Two way,No junction,Asphalt roads,Daylight,Raining,Collision with pedestrians,Going straight,Not a Pedestrian,Other
+18-30,Male,Employee,5-10yr,Undivided Two way,Y Shape,Other,Daylight,Normal,Collision with pedestrians,Moving Backward,Not a Pedestrian,No distancing
+18-30,Male,Employee,5-10yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,No priority to pedestrian
+Unknown,Female,Owner,Below 1yr,Two-way (divided with broken lines road marking),Y Shape,Asphalt roads,Darkness - lights lit,Normal,Collision with pedestrians,Going straight,Not a Pedestrian,Moving Backward
